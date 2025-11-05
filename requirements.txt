@@ -5,3 +5,6 @@ torch
 Pillow
 # gradio
 streamlit
+diffusers
+transformers
+accelerate
