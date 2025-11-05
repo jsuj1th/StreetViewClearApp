@@ -25,13 +25,13 @@ StreetViewClearApp is a web-based tool to automatically detect and remove vehicl
 ---
 
 ## 📂 Project Structure
-StreetViewClearApp/
-├── app.py                    # Streamlit Web App Entry Point
-├── inpainting_pipeline.py    # YOLO detection + SD inpainting logic
-├── models/                   # (Optional) Custom YOLOv8 weights
-├── mask_overlays/            # Generated mask overlays per vehicle
-├── requirements.txt          # Python dependencies
-└── README.md                 # Project Documentation
+StreetViewClearApp/  
+├── app.py                    # Streamlit Web App Entry Point  
+├── inpainting_pipeline.py    # YOLO detection + SD inpainting logic  
+├── models/                   # (Optional) Custom YOLOv8 weights  
+├── mask_overlays/            # Generated mask overlays per vehicle  
+├── requirements.txt          # Python dependencies  
+└── README.md                 # Project Documentation  
 
 
 ---
