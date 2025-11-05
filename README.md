@@ -50,7 +50,7 @@ StreetViewClearApp/
 
 ### Step 1: Clone Repository
 ```bash
-git clone <your_repo_url>
+git clone https://github.com/jsuj1th/StreetViewClearApp.git
 cd StreetViewClearApp
 ```
 
